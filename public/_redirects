@@ -1,0 +1,3 @@
+# bamboomusic.asia → shop.bamboomusic.asia に301リダイレクト
+https://www.bamboomusic.asia/* https://shop.bamboomusic.asia/:splat 301!
+https://bamboomusic.asia/*     https://shop.bamboomusic.asia/:splat 301!
